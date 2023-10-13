@@ -6,7 +6,7 @@ Welcome to the Node.js blog-post project! This application publishes the blogs y
 
 <ol>
   <li><strong>Clone and Install:</strong>
-    <pre><code>git clone https://github.com/SujeetPawar/ToDoList_.git<br>cd todo-list-node-mongodb<br>npm install</code></pre>
+    <pre><code>git clone https://github.com/SujeetPawar/blog-post.git<br>npm install</code></pre>
   </li>
   <li><strong>Database:</strong>
     <p>Ensure MongoDB is running locally or update <code>mongo</code> with a remote connection string.</p>
